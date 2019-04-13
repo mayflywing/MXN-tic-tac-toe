@@ -17,8 +17,7 @@ out/
 .classpath
 .DS_Store
 .project
-AI2.iml
-AI2_Final_2.iml
+*.iml
 
 
 # Package Files #
