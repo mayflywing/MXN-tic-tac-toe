@@ -20,9 +20,9 @@ public class HTTP {
     public String opponent_teamId;
 
     public HTTP(){
-        userId = "686";
-        teamId = "1104";
-        api_key = "09ed6fbadc39dc991e28";
+        userId = "";
+        teamId = "";
+        api_key = "";
     };
 
     public void setOpponent_teamId(String opponent_teamId){
